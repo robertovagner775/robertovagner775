@@ -1,6 +1,6 @@
 ## Olá tudo bom, meu nome é Roberto Vagner
 
-+ 📚 Estou estudando Kotlin
++ 📚 Estou estudando PHP
 + 💻 Estudante de tecnologia
 
 ![Roberto Vagner GitHub stats](https://github-readme-stats.vercel.app/api?username=robertovagner775&show_icons=true&theme=tokyonight)
