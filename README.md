@@ -4,7 +4,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robertovagner775&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
-## Tecnologias que venho trabalhando.
+<p align="left">Tecnologias que venho trabalhando</p>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
