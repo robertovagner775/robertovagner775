@@ -2,7 +2,7 @@
 
 </br>
 
-<p> Sou um desenvolvedor apaixonado por tecnologia e programação. Tenho experiência principalmente em Java, Spring Boot, JavaScript, e desenvolvimento full stack. Gosto de construir APIs REST escaláveis, trabalhar com bancos de dados e criar aplicações web e mobile. </p>
+<p> Sou um desenvolvedor apaixonado por tecnologia e programação. Tenho experiência principalmente em Java e Spring Boot. Gosto de construir APIs REST escaláveis, trabalhar com bancos de dados e criar aplicações web</p>
 
 </br>
 
