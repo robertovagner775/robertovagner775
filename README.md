@@ -1,8 +1,8 @@
-<h2 align="center"> Olá meu nome é Roberto Vagner sou um Desenvolvedor Fullstack</h2>
+<h2 align="center"> Olá meu nome é Roberto Vagner sou um Desenvolvedor Fullstack 👨‍💻</h2>
 
 </br>
 
-<p> Sou um desenvolvedor apaixonado por tecnologia e programação. Tenho experiência principalmente em Java e Spring Boot. Gosto de construir APIs REST escaláveis, trabalhar com bancos de dados e criar aplicações web</p>
+<p> Sou um desenvolvedor apaixonado por tecnologia e programação. Tenho experiência principalmente em Java e Spring Boot. Gosto de construir APIs REST escaláveis, trabalhar com bancos de dados e criar aplicações web 💻</p>
 
 </br>
 
