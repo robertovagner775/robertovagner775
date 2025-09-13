@@ -1,4 +1,4 @@
-<h2 align="center"> Olá meu nome é Roberto Vagner sou um Desenvolvedor Fullstack 👨‍💻</h2>
+<h2 align="center"> Olá meu nome é Roberto Vagner sou um Desenvolvedor de Software 👨‍💻</h2>
 
 </br>
 
