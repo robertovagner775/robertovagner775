@@ -1,12 +1,6 @@
-<h2 align="center"> Olá meu nome é Roberto Vagner sou um Desenvolvedor de Software 👨‍💻</h2>
+<p> Sou um desenvolvedor apaixonado por tecnologia e programação. Tenho experiência principalmente em Java e Spring Boot. Gosto de construir APIs REST escaláveis, trabalhar com bancos de dados e criar aplicações web</p>
 
 </br>
-
-<p> Sou um desenvolvedor apaixonado por tecnologia e programação. Tenho experiência principalmente em Java e Spring Boot. Gosto de construir APIs REST escaláveis, trabalhar com bancos de dados e criar aplicações web 💻</p>
-
-</br>
-
-<h3 align="center">Linguagens & Frameworks</h3>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
@@ -28,7 +22,7 @@
 
 </br>
 
-<h3 align="center">Ferramentas </h3>
+<h3 align="center">Ferramentas</h3>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
